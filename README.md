@@ -1,7 +1,7 @@
 # bert_tutorial
 
 ### Outline:
-This is the github repo for the NLSea meetup Aug.27.2019.
+This is the github repo for the [NLSea meetup Aug.27.2019](https://www.meetup.com/PSPPython/events/263977182/).  
 In this session, we discussed about the pytorch implementation of BERT model purposed Nov. 2018.  
 The session mainly focused on 4 aspects:  
 
